@@ -1,7 +1,7 @@
 [server]
-#headless = true
+headless = true
 port = 10000
 
 [browser]
-#serverAddress = "0.0.0.0"
-#serverPort = 10000
+serverAddress = "0.0.0.0"
+serverPort = 10000
